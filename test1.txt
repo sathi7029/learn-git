@@ -1,1 +1,3 @@
 feature 1
+
+second line from feature 3
